@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: #323d35;
+}
+
+#title {
+    color: #7d7dff;
+    font-family: 'Itim', cursive;
+    font-size: 5rem;
+}
+
+
+#catImage {
+    cursor: pointer;
+}
